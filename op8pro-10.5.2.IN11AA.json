@@ -16,11 +16,11 @@
     "RADIO": "2004050032",
     "SERIAL": "",
     "SUPPORTED_32_BIT_ABIS": [
-      "arm64-v8a"
-    ],
-    "SUPPORTED_64_BIT_ABIS": [
       "armeabi-v7a",
       "armeabi"
+    ],
+    "SUPPORTED_64_BIT_ABIS": [
+      "arm64-v8a"
     ],
     "SUPPORTED_ABIS": [
       "arm64-v8a",
