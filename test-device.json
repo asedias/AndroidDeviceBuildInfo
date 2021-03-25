@@ -1,0 +1,38 @@
+{
+  "Build": {
+    "BOARD": "universal7870",
+    "BOOTLOADER": "T580XXU3BRF1",
+    "BRAND": "samsung",
+    "CPU_ABI": "armeabi-v7a",
+    "CPU_ABI2": "armeabi",
+    "DEVICE": "gtaxlwifi",
+    "DISPLAY": "NRD90M.T580XXU3BRF1",
+    "FINGERPRINT": "samsung/gtaxlwifixx/gtaxlwifi:7.0/NRD90M/T580XXU3BRF1:user/release-keys",
+    "HARDWARE": "exynos5",
+    "ID": "NRD90M",
+    "MANUFACTURER": "samsung",
+    "MODEL": "SM-T580",
+    "PRODUCT": "gtaxlwifixx",
+    "RADIO": "T580XXU3BRF1",
+    "SERIAL": "unknown",
+    "SUPPORTED_32_BIT_ABIS": [
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "SUPPORTED_64_BIT_ABIS": [],
+    "SUPPORTED_ABIS": [
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "TAGS": "release-keys",
+    "TYPE": "user"
+  },
+  "VERSION": {
+    "CODENAME": "REL",
+    "INCREMENTAL": "T580XXU3BRF1",
+    "RELEASE": "7.0",
+    "SDK": "24",
+    "SDK_INT": 24
+  },
+  "humanDeviceName": "Galaxy Tab A 10.1 SM-T580 (Test)"
+}
