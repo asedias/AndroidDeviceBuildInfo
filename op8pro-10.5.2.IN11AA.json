@@ -1,0 +1,41 @@
+{
+  "Build": {
+    "BOARD": "OnePlus8Pro",
+    "BOOTLOADER": "unknown",
+    "BRAND": "OnePlus",
+    "CPU_ABI": "arm64-v8a",
+    "CPU_ABI2": "armeabi-v7a",
+    "DEVICE": "OnePlus8Pro",
+    "DISPLAY": "IN2025_15_200405",
+    "FINGERPRINT": "OnePlus/OnePlus8Pro/OnePlus8Pro:10/QKQ1.191222.002/2004050032:user/release-keys",
+    "HARDWARE": "qcom",
+    "ID": "QKQ1.191222.002",
+    "MANUFACTURER": "OnePlus",
+    "MODEL": "IN2025",
+    "PRODUCT": "OnePlus8Pro",
+    "RADIO": "2004050032",
+    "SERIAL": "",
+    "SUPPORTED_32_BIT_ABIS": [
+      "arm64-v8a"
+    ],
+    "SUPPORTED_64_BIT_ABIS": [
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "SUPPORTED_ABIS": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "TAGS": "release-keys",
+    "TYPE": "user"
+  },
+  "VERSION": {
+    "CODENAME": "REL",
+    "INCREMENTAL": "2004050032",
+    "RELEASE": "10",
+    "SDK": "29",
+    "SDK_INT": 29
+  },
+  "humanDeviceName": "OnePlus 8 Pro (10)"
+}
