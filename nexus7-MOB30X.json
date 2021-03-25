@@ -1,0 +1,38 @@
+{
+  "Build": {
+    "BOARD": "flo",
+    "BOOTLOADER": "unknown",
+    "BRAND": "google",
+    "CPU_ABI": "armeabi-v7a",
+    "CPU_ABI2": "armeabi",
+    "DEVICE": "flo",
+    "DISPLAY": "MOB30X",
+    "FINGERPRINT": "google/razor/flo:6.0.1/MOB30X/3036618:user/release-keys",
+    "HARDWARE": "msm8960",
+    "ID": "MOB30X",
+    "MANUFACTURER": "asus",
+    "MODEL": "Nexus 7",
+    "PRODUCT": "razor",
+    "RADIO": "2004050032",
+    "SERIAL": "unknown",
+    "SUPPORTED_32_BIT_ABIS": [
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "SUPPORTED_64_BIT_ABIS": [],
+    "SUPPORTED_ABIS": [
+      "armeabi-v7a",
+      "armeabi"
+    ],
+    "TAGS": "release-keys",
+    "TYPE": "user"
+  },
+  "VERSION": {
+    "CODENAME": "REL",
+    "INCREMENTAL": "3036618",
+    "RELEASE": "6.0.1",
+    "SDK": "23",
+    "SDK_INT": 23
+  },
+  "humanDeviceName": "Nexus 7 (6.0.1)"
+}
