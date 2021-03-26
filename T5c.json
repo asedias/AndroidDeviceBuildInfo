@@ -1,0 +1,38 @@
+{
+  "Build": {
+    "BOARD": "k500_lgt_511_vmm",							//ro.product.board
+    "BOOTLOADER": "unknown",						//ro.boot.bootloader ro.bootloader
+    "BRAND": "LEAGOO",							//ro.product.brand
+    "CPU_ABI": "x86_64",						//ro.product.cpu.abi
+    "CPU_ABI2": "",								//ro.product.cpu.abi2
+    "DEVICE": "T5c",							//ro.product.name ro.product.device
+    "DISPLAY": "LEAGOO_T5c_OS2.1_E_20180112",	//ro.build.display.id
+    "FINGERPRINT": "LEAGOO/T5c/T5c:7.0/NRD90M/01121754:user/release-keys",	//ro.build.fingerprint ro.vendor.build.fingerprint
+    "HARDWARE": "k500_lgt_511_v1.0.0",						//ro.boot.hardware ro.hardware
+    "ID": "NRD90M",					//ro.build.id
+    "MANUFACTURER": "LEAGOO",					//ro.product.manufacturer
+    "MODEL": "T5c",						//ro.product.model
+    "PRODUCT": "T5c",						//?prop
+    "RADIO": "unknown",			//?prop
+    "SERIAL": "unknown",						//ro.boot.serial ro.serial ril.serialnumber ro.serialno sys.serialnumber
+    "SUPPORTED_32_BIT_ABIS": [					//ro.product.cpu.abilist32
+      "x86","armeabi-v7a","armeabi"
+    ],
+    "SUPPORTED_64_BIT_ABIS": [					//ro.product.cpu.abilist64
+	  "x86_64","arm64-v8a"
+    ],
+    "SUPPORTED_ABIS": [							//ro.product.cpu.abilist
+		"x86_64","x86","armeabi-v7a","armeabi","arm64-v8a"
+    ],
+    "TAGS": "release-keys",						//ro.build.tags
+    "TYPE": "user"								//ro.build.type
+  },
+  "VERSION": {
+    "CODENAME": "REL",			//ro.build.version.codename ro.build.version.all_codenames
+    "INCREMENTAL": "eng.root.20180112.175428", 	//ro.build.version.incremental
+    "RELEASE": "7.0",			//ro.build.version.release
+    "SDK": "24",				//ro.build.version.sdk
+    "SDK_INT": 24				//ro.build.version.sdk
+  },
+  "humanDeviceName": "LEAGOO T5c (7.0)"
+}
